@@ -65,3 +65,14 @@ Advantages and limitations of tree-based models
 *✅ Conclusion*:
 Implementing a Decision Tree Classifier from scratch using Python was an insightful experience that enhanced my machine learning skills. It taught me how to deal with real-world data and extract meaningful results using statistical and algorithmic techniques. This task also laid the foundation for exploring more advanced ensemble methods like Random Forests and Gradient Boosting in the future.
 
+#OUTPUT
+<img width="1260" height="658" alt="Image" src="https://github.com/user-attachments/assets/958fabb3-c2c6-46a4-b244-997ac91d1eb3" />
+
+<img width="539" height="455" alt="Image" src="https://github.com/user-attachments/assets/024bd8e1-4a1c-4a0b-9f86-cfca4065db23" />
+
+<img width="1071" height="393" alt="Image" src="https://github.com/user-attachments/assets/35881cf1-0383-4d02-9882-7362d2962569" />
+
+<img width="1001" height="316" alt="Image" src="https://github.com/user-attachments/assets/282fc295-e710-4043-8c9a-258c1cf10a7f" />
+
+<img width="1001" height="316" alt="Image" src="https://github.com/user-attachments/assets/5bc5d2dd-2279-4039-b7fe-1c90ddc37b82" />
+
